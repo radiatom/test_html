@@ -308,7 +308,7 @@ body {
 }
 
 .footer__item:nth-child(3) a:nth-child(2)::before {
-  background: url("./../img/icons/Vector (1).svg") no-repeat 0/11px;
+  background: url("./../img/icons/Vector1.svg") no-repeat 0/11px;
   height: 16px;
 }
 
@@ -359,7 +359,7 @@ body {
 .footer__item:nth-child(4) div .linkedin {
   width: 20px;
   height: 20px;
-  background: url(./../img/icons/Linked\ In.svg) 0 0/auto 100% no-repeat;
+  background: url(./../img/icons/LinkedIn.svg) 0 0/auto 100% no-repeat;
 }
 
 .footer__item:nth-child(4) div .pinterest {
